@@ -1,0 +1,6 @@
+pyzmq==17.1.2
+pandas==0.25.0
+pytz==2017.2
+setuptools==24.2.0
+NumPy==1.13.3
+python==3.6.1+
